@@ -1,4 +1,4 @@
-# Conversational-Chatbot-using-Langchain-main# Conversational-Chatbot-using-Langchain
+# Conversational-Chatbot-using-Langchain
 
 
 ## About The Project
